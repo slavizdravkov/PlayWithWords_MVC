@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/vendor/
+/var/*
+!/var/cashe
+/var/cashe/*
+!/var/cashe/twig
+/var/cashe/twig/*
+.idea
